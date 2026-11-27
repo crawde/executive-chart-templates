@@ -8,17 +8,17 @@ Curated publication-grade chart templates from **[ChartForge](https://chartforge
 
 ---
 
-## Latest Drop (#1 · 2026-11-26): AI & Tech
+## Latest Drop (#3 · 2026-11-27): Energy & Climate
 
 | Preview | Template | Archetype | Remix |
 |---|---|---|---|
-| [<img src="https://chartforgeai.com/samples/charter/bar-cadence-40.webp" width="260" alt="Where Tech Investment Could Surge" />](https://chartforgeai.com/charts/bar-cadence-40) | **Where Tech Investment Could Surge**<br/><sub>Five technology trends are on pace to at least double their investment in 2026 compared wi…</sub> | `Bars & Stacks` | [Customize →](https://chartforgeai.com/charts/bar-cadence-40) |
-| [<img src="https://chartforgeai.com/samples/charter/point-compass-05.webp" width="260" alt="AI to Browse but Not to Buy" />](https://chartforgeai.com/charts/point-compass-05) | **AI to Browse but Not to Buy**<br/><sub>AI is already mainstream in Europe’s customer decision journey</sub> | `Dots & Bubbles` | [Customize →](https://chartforgeai.com/charts/point-compass-05) |
-| [<img src="https://chartforgeai.com/samples/charter/line-cadence-11.webp" width="260" alt="Are AgTech Startups Recovering" />](https://chartforgeai.com/charts/line-cadence-11) | **Are AgTech Startups Recovering**<br/><sub>A 2-panel step interactive shows investment in agriculture technology. The first panel sho…</sub> | `Lines & Areas` | [Customize →](https://chartforgeai.com/charts/line-cadence-11) |
-| [<img src="https://chartforgeai.com/samples/charter/chart-mosaic-79.webp" width="260" alt="Burning Through the AI Budget" />](https://chartforgeai.com/charts/chart-mosaic-79) | **Burning Through the AI Budget**<br/><sub>Most companies are exceeding their AI budgets.</sub> | `Multi-Panel` | [Customize →](https://chartforgeai.com/charts/chart-mosaic-79) |
-| [<img src="https://chartforgeai.com/samples/charter/pillar-cadence-37.webp" width="260" alt="China's Humanoid Robot Edge" />](https://chartforgeai.com/charts/pillar-cadence-37) | **China's Humanoid Robot Edge**<br/><sub>China has a significant share of capacity for robotics components.</sub> | `Columns & Flows` | [Customize →](https://chartforgeai.com/charts/pillar-cadence-37) |
+| [<img src="https://chartforgeai.com/samples/charter/layered-curves.webp" width="260" alt="Layered Curves" />](https://chartforgeai.com/charts/layered-curves) | **Layered Curves**<br/><sub>100% stacked area transition chart paired with circular CAGR growth badges on the right.</sub> | `Stacked Area` | [Customize →](https://chartforgeai.com/charts/layered-curves) |
+| [<img src="https://chartforgeai.com/samples/charter/chart-mosaic-255.webp" width="260" alt="Test Do Not Publish Mapping Climate Inequities" />](https://chartforgeai.com/charts/chart-mosaic-255) | **Test Do Not Publish Mapping Climate Inequities**<br/><sub>A 3-layered map of New Orleans shows the flood risk from hurricanes, by neighborhood, by 2…</sub> | `Maps & Networks` | [Customize →](https://chartforgeai.com/charts/chart-mosaic-255) |
+| [<img src="https://chartforgeai.com/samples/charter/pillar-cadence-33.webp" width="260" alt="Batteries Back the Grid" />](https://chartforgeai.com/charts/pillar-cadence-33) | **Batteries Back the Grid**<br/><sub>Annual installed capacity for battery energy storage systems is projected to increase by a…</sub> | `Columns & Flows` | [Customize →](https://chartforgeai.com/charts/pillar-cadence-33) |
+| [<img src="https://chartforgeai.com/samples/charter/bar-cadence-36.webp" width="260" alt="Africa's Mineral Advantage" />](https://chartforgeai.com/charts/bar-cadence-36) | **Africa's Mineral Advantage**<br/><sub>Africa is rich in minerals critical to the world’s energy and technology transitions.</sub> | `Bars & Stacks` | [Customize →](https://chartforgeai.com/charts/bar-cadence-36) |
+| [<img src="https://chartforgeai.com/samples/charter/chart-mosaic-82.webp" width="260" alt="Energys Latest Chokepoint" />](https://chartforgeai.com/charts/chart-mosaic-82) | **Energys Latest Chokepoint**<br/><sub>The 2026 energy shock is the largest recent supply disruption.</sub> | `Multi-Panel` | [Customize →](https://chartforgeai.com/charts/chart-mosaic-82) |
 
-👉 **[Read full Drop #1 breakdown](./drops/drop-001-ai-and-compute-strategy.md)**
+👉 **[Read full Drop #3 breakdown](./drops/drop-003-clean-energy-grid-transition.md)**
 
 ---
 
