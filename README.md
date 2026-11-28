@@ -8,17 +8,17 @@ Curated publication-grade chart templates from **[ChartForge](https://chartforge
 
 ---
 
-## Latest Drop (#3 · 2026-11-27): Energy & Climate
+## Latest Drop (#5 · 2026-11-28): Healthcare
 
 | Preview | Template | Archetype | Remix |
 |---|---|---|---|
-| [<img src="https://chartforgeai.com/samples/charter/layered-curves.webp" width="260" alt="Layered Curves" />](https://chartforgeai.com/charts/layered-curves) | **Layered Curves**<br/><sub>100% stacked area transition chart paired with circular CAGR growth badges on the right.</sub> | `Stacked Area` | [Customize →](https://chartforgeai.com/charts/layered-curves) |
-| [<img src="https://chartforgeai.com/samples/charter/chart-mosaic-255.webp" width="260" alt="Test Do Not Publish Mapping Climate Inequities" />](https://chartforgeai.com/charts/chart-mosaic-255) | **Test Do Not Publish Mapping Climate Inequities**<br/><sub>A 3-layered map of New Orleans shows the flood risk from hurricanes, by neighborhood, by 2…</sub> | `Maps & Networks` | [Customize →](https://chartforgeai.com/charts/chart-mosaic-255) |
-| [<img src="https://chartforgeai.com/samples/charter/pillar-cadence-33.webp" width="260" alt="Batteries Back the Grid" />](https://chartforgeai.com/charts/pillar-cadence-33) | **Batteries Back the Grid**<br/><sub>Annual installed capacity for battery energy storage systems is projected to increase by a…</sub> | `Columns & Flows` | [Customize →](https://chartforgeai.com/charts/pillar-cadence-33) |
-| [<img src="https://chartforgeai.com/samples/charter/bar-cadence-36.webp" width="260" alt="Africa's Mineral Advantage" />](https://chartforgeai.com/charts/bar-cadence-36) | **Africa's Mineral Advantage**<br/><sub>Africa is rich in minerals critical to the world’s energy and technology transitions.</sub> | `Bars & Stacks` | [Customize →](https://chartforgeai.com/charts/bar-cadence-36) |
-| [<img src="https://chartforgeai.com/samples/charter/chart-mosaic-82.webp" width="260" alt="Energys Latest Chokepoint" />](https://chartforgeai.com/charts/chart-mosaic-82) | **Energys Latest Chokepoint**<br/><sub>The 2026 energy shock is the largest recent supply disruption.</sub> | `Multi-Panel` | [Customize →](https://chartforgeai.com/charts/chart-mosaic-82) |
+| [<img src="https://chartforgeai.com/samples/charter/point-compass.webp" width="260" alt="Waffle Matrix" />](https://chartforgeai.com/charts/point-compass) | **Waffle Matrix**<br/><sub>Multi-panel 10×10 dot waffle grids visualizing exact percentage shares side by side.</sub> | `Dot Waffle` | [Customize →](https://chartforgeai.com/charts/point-compass) |
+| [<img src="https://chartforgeai.com/samples/charter/bar-cadence-31.webp" width="260" alt="GLP-1s Bite into Snack and Drink Sales" />](https://chartforgeai.com/charts/bar-cadence-31) | **GLP-1s Bite into Snack and Drink Sales**<br/><sub>Glucagon-like peptide-1 adoption could most affect the consumption of high-calorie, high-s…</sub> | `Bars & Stacks` | [Customize →](https://chartforgeai.com/charts/bar-cadence-31) |
+| [<img src="https://chartforgeai.com/samples/charter/chart-mosaic-64.webp" width="260" alt="Shaping a Healthier World" />](https://chartforgeai.com/charts/chart-mosaic-64) | **Shaping a Healthier World**<br/><sub>There is an opportunity to bend the disease burden curve.</sub> | `Multi-Panel` | [Customize →](https://chartforgeai.com/charts/chart-mosaic-64) |
+| [<img src="https://chartforgeai.com/samples/charter/pillar-cadence-11.webp" width="260" alt="Strengthening Nurse Leadership" />](https://chartforgeai.com/charts/pillar-cadence-11) | **Strengthening Nurse Leadership**<br/><sub>Not feeling valued by leaders and by organizations are among the top three factors influen…</sub> | `Columns & Flows` | [Customize →](https://chartforgeai.com/charts/pillar-cadence-11) |
+| [<img src="https://chartforgeai.com/samples/charter/bubble-orbit.webp" width="260" alt="Bubble Orbit" />](https://chartforgeai.com/charts/bubble-orbit) | **Bubble Orbit**<br/><sub>Circular radial bubble orbit comparing proportional magnitudes clockwise from largest to s…</sub> | `Radial Ring` | [Customize →](https://chartforgeai.com/charts/bubble-orbit) |
 
-👉 **[Read full Drop #3 breakdown](./drops/drop-003-clean-energy-grid-transition.md)**
+👉 **[Read full Drop #5 breakdown](./drops/drop-005-healthcare-biotech-outcomes.md)**
 
 ---
 
